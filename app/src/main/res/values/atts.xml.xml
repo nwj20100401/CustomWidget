@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!--自定义控件需要的信息-->
+<resources>
+    <declare-styleable name="head">
+        <!--宽度-->
+        <attr name="border_width" format="dimension"></attr>
+        <!--内边框颜色-->
+        <attr name="border_incolor" format="color"></attr>
+        <!--外边框颜色-->
+        <attr name="border_outcolor" format="color"></attr>
+    </declare-styleable>
+</resources>
